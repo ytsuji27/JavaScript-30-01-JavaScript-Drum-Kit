@@ -2,4 +2,4 @@
 Part 1 of a 30 day coding challenge, building simple apps with vanilla JavaScript. \\
 Link to the entire challenge can be found [here](https://javascript30.com/).
 
-![Screen Shot](assets/Screen Shot.png)
+![Screen Shot](/assets/Screen Shot.png)
